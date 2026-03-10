@@ -4,6 +4,7 @@ const services = [
   'teacher-service/app.js',
   'subject-service/app.js',
   'department-service/app.js',
+  'student-service/app.js',
   'education-management-api/app.js'
 ];
 
